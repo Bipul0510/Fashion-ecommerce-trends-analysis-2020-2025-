@@ -2,7 +2,7 @@ Fashion Ecommerce Trends Analysis (2020–2025) | End-to-End Data Analytics Proj
 
 Designed a complete data analytics pipeline using Python (Pandas, Matplotlib) and SQL to analyze ecommerce trends.
 
-Created and processed a synthetic dataset (50k+ records) covering revenue, categories, channels, and geographies.
+Created and processed a synthetic dataset (20k+ records) covering revenue, categories, channels, and geographies.
 
 Developed SQL queries for KPI tracking, customer cohorts, category growth, and sales channel performance.
 
@@ -10,4 +10,5 @@ Built visualizations and reports (PDF & PPT) highlighting monthly revenue trends
 
 Delivered business recommendations on seasonality, retention strategies, and reducing return rates.
 
-Tools & Tech: Python, Pandas, SQL, Matplotlib, PowerPoint, ReportLab
+
+Tools & Tech: Python, Pandas,  Matplotlib, MS SQL, PowerBI
