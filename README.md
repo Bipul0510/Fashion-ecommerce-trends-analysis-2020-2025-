@@ -2,16 +2,16 @@ Fashion Ecommerce Trends Analysis (2020-2025)
 
 Files:
 
-# fashion_ecom_2020_2025.csv
+* fashion_ecom_2020_2025.csv
 
-# fashion_analytics_queries.sql
+* fashion_analytics_queries.sql
 
-# sql_problem_statements.md
+* sql_problem_statements.md
 
-# analysis.py
+* analysis.py
 
-# fashion_report.pdf 
+* fashion_report.pdf 
 
-# fashion_presentation.pptx 
+* fashion_presentation.pptx 
 
 Run python analysis.py to generate analysis outputs.
