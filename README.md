@@ -1,6 +1,6 @@
 Fashion Ecommerce Trends Analysis (2020-2025)
 
-Files:
+Required files:
 
 * fashion_ecom_2020_2025.csv
 
