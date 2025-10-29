@@ -1,4 +1,4 @@
-Fashion Ecommerce Trends Analysis (2020-2025)
+### Fashion Ecommerce Trends Analysis (2020-2025)
 
 Required files:
 
@@ -14,4 +14,4 @@ Required files:
 
 * fashion_presentation.pptx 
 
-Run python analysis.py to generate analysis outputs.
+_NOTE_: Run python analysis.py to generate analysis outputs.
