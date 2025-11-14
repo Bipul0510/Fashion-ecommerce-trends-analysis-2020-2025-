@@ -12,6 +12,6 @@ Required files:
 
 * fashion_report.pdf 
 
-* fashion_presentation.pptx
+* fashion_presentation.ppt
 
 NOTE: Run python analysis.py to generate analysis outputs.
