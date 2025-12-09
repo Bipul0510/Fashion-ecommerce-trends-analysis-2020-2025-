@@ -14,4 +14,4 @@ Required files:
 
 * fashion_presentation.pptx
 
-NOTE: Run python analysis.py to generate analysis 
+NOTE: Run python analysis.py to generate analysis output.
